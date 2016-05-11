@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTest.CSharp.Plugins", "GeometryTest.CSharp.Plugins.csproj", "{6AAEF31A-F307-6C3E-A12C-691519ABC527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTest.CSharp", "GeometryTest.CSharp.csproj", "{89E192B4-924C-9D7F-3F53-9FD23627E871}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GeometryTest.CSharp.Editor", "GeometryTest.CSharp.Editor.csproj", "{82140B17-A544-1F92-DA1E-0BB57F802EA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AAEF31A-F307-6C3E-A12C-691519ABC527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AAEF31A-F307-6C3E-A12C-691519ABC527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AAEF31A-F307-6C3E-A12C-691519ABC527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AAEF31A-F307-6C3E-A12C-691519ABC527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E192B4-924C-9D7F-3F53-9FD23627E871}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E192B4-924C-9D7F-3F53-9FD23627E871}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E192B4-924C-9D7F-3F53-9FD23627E871}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E192B4-924C-9D7F-3F53-9FD23627E871}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82140B17-A544-1F92-DA1E-0BB57F802EA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82140B17-A544-1F92-DA1E-0BB57F802EA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82140B17-A544-1F92-DA1E-0BB57F802EA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82140B17-A544-1F92-DA1E-0BB57F802EA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
